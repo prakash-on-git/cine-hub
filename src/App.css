@@ -1,0 +1,13 @@
+main {
+  max-width: 1280px;
+  margin: auto;
+  min-height: 90vh;
+  padding: 10px;
+}
+
+.orangeSpan {
+  color: white;
+  background-color: orange;
+  border-radius: 0.5rem;
+  padding: 0.2rem;
+}

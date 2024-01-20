@@ -1,0 +1,13 @@
+API Key : 945a06584d09b3cc1f58449d053d4cf0
+API Read Access Token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NDVhMDY1ODRkMDliM2NjMWY1ODQ0OWQwNTNkNGNmMCIsInN1YiI6IjY0YjhiZTY1NWEwN2Y1MDBjN2M4ODkxZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.00UaCPobK8CLDvVQXH9IxxLGzW0NMSWgZC3s6Jkya4U
+
+base url : https://api.themoviedb.org/3
+
+indivisual > /movie/{movie_id}?api_key=
+playing > /movie/now_playing?api_key=
+indivisual > /movie/popular?api_key=
+indivisual > /movie/top_rated?api_key=
+indivisual > /movie/upcoming?api_key=
+indivisual > /search/movie?api_key={api_key}&query=avatar
+
+link to poster path https://image.tmdb.org/t/p     +   {link given in object}
